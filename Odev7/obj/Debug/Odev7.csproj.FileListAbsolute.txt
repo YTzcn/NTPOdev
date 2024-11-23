@@ -1,0 +1,7 @@
+C:\Users\yahya\source\repos\Odev7\Odev7\bin\Debug\Odev7.exe.config
+C:\Users\yahya\source\repos\Odev7\Odev7\bin\Debug\Odev7.exe
+C:\Users\yahya\source\repos\Odev7\Odev7\bin\Debug\Odev7.pdb
+C:\Users\yahya\source\repos\Odev7\Odev7\obj\Debug\Odev7.csprojAssemblyReference.cache
+C:\Users\yahya\source\repos\Odev7\Odev7\obj\Debug\Odev7.csproj.CoreCompileInputs.cache
+C:\Users\yahya\source\repos\Odev7\Odev7\obj\Debug\Odev7.exe
+C:\Users\yahya\source\repos\Odev7\Odev7\obj\Debug\Odev7.pdb
